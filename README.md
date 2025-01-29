@@ -42,3 +42,4 @@ The trained linear regression model is saved using the pickle library. This proc
 ### 8. Deployment
  A web application is developed using Streamlit to create an interactive interface for users to input employee details. The input fields include features such as gender, company type, WFH setup availability, designation, resource allocation, and mental fatigue score. After entering the details and clicking the "Predict Burnout Rate" button, the trained Linear Regression model is loaded, and the burnout probability is predicted based on the provided information.
 
+🚀 **[Click here to use the app](https://employee-burnout-prediction-1.onrender.com/)** 🚀
