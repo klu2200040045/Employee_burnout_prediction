@@ -1,4 +1,4 @@
-# Employee_burnout_prediction
+# Employee_burnrate_prediction
 ## About the Project
 This project aims to predict the probability of employee burnout based on various features such as gender, company type, designation, resource allocation, mental fatigue score, and WFH (Work From Home) setup. By leveraging data science techniques, the goal is to understand the factors contributing to burnout and help organizations take preventive measures.
 
